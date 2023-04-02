@@ -1,0 +1,11 @@
+radio = set("slaskie","podlskie", "mazowieckie")
+radio2 = set("slaskie", "wielkopolska", "dolnoslaskie")
+radio3 = set("pomorskie", "zachodniopomorskie", "warminsko-mazurskie")
+radio5 = set("slaskie", "dolnoslaskie", "mazowieckie", "lodzkie", "wilkopolskie", "zachodniopomorskie", "pomorskie", "warmińsko-mazurskie", "podlaskie")
+radio6 = set("podlskie")
+radio7 = set("kujawsko-pomorskie", "warmińsko-mazurskie", "pomorskie")
+radio8 = set("lubuskie", "opolskie")
+radio9 = set("lubelskie", "swiętokrzyskie")
+radio10 = set("mazowieckie", "podkarpckie")
+
+wszystkie = set("slaskie", "dolnoslaskie", "malopolska", "opolskie", "podkarpackie", "swietokrzyskie", "lubelskie", "mazowieckie", "lodzkie", "wilkopolskie", "kujawsko-pomorskie", "lubuskie", "zachodniopomorskie", "pomorskie", "warmińsko-mazurskie", "podlaskie")
