@@ -1,5 +1,5 @@
 ### Hi there 👋
-Discord Kiro#2222
+
 <!--
 **Kiro2002/Kiro2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
